@@ -254,8 +254,8 @@ main{
 
 @media (max-width: 780px) {
     .carousel {
-        width: 90%;
-        padding: 10px 0;
+        width: 100%;
+        
     }
 
     .carousel i {
@@ -311,7 +311,7 @@ main{
 
         width: 270px;
         height: 270px;
-        margin-right: 10%;
+        margin-left: -30%;
         margin-top: -10%;
         transform: translate(50%, 50%);
 
