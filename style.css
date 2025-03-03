@@ -311,6 +311,7 @@ main{
 
         width: 270px;
         height: 270px;
+        margin-right: 10%;
         margin-top: -10%;
         transform: translate(50%, 50%);
 
