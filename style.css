@@ -311,8 +311,8 @@ main{
 
         width: 270px;
         height: 270px;
-        padding-right: 100px;
-        padding-top: 200px;
+        padding-left: -200px;
+        padding-top: 500px;
 
     }
 
