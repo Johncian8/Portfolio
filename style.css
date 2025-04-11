@@ -309,6 +309,7 @@ main{
 
     .profile{
 
+        position: absolute;
         width: 270px;
         height: 270px;
         border-radius: 50%;
